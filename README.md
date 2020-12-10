@@ -1,2 +1,2 @@
-# Fragrance-top-brands-using-react
+# Emoji-Interpreter-using-react
 Created with CodeSandbox
